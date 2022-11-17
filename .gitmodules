@@ -1,3 +1,7 @@
 [submodule "qemu"]
 	path = qemu
 	url = https://github.com/dev-spujar/qemu.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/dev-spujar/linux.git
+	ignore = dirty
